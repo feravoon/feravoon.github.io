@@ -16,14 +16,15 @@ body{
 }
 
 .frontNewsBox h1{
-	font: 20pt PT Serif;
+	font: 24pt PT Serif;
 	margin-top: 0px;
 	border-bottom: 1px solid #cccccc;
 	margin-bottom: 4px;
+	padding-bottom:12px;
 }
 
 .frontNewsBody{
-	font: 10pt Georgia;
+	font: 12pt Georgia;
 	margin:auto;
 	margin-top:12px;
 	text-align: justify;
