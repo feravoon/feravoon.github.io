@@ -1,7 +1,6 @@
 # Deneme
 
 Yazı
-
 * liste
 * liste
 
