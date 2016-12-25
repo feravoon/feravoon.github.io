@@ -1,0 +1,137 @@
+body{
+	background: #f6f6f6;
+	padding:0;
+	margin: 0;
+}
+
+#header{
+	background: white;
+	margin:0;
+	padding:24px;
+	margin-bottom:24px;
+	border-bottom: 1px solid #cccccc;
+}
+
+.headerContent{
+	width: 920px;
+	margin:auto;
+	font: 44pt PT Serif;
+}
+
+.headerContent a{
+	color:black;
+	text-decoration:none;
+}	
+
+.headerSubText{
+	font: 12pt Georgia;
+	color: #666666;
+}
+
+#mainContainer{
+	width: 920px;
+	margin:auto;
+	padding: 0;
+}
+
+.frontNewsBox{
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	padding: 12px;
+	margin-bottom: 24px;
+
+}
+
+.frontNewsBox h1{
+	font: 24pt PT Serif;
+	margin-top: 0px;
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 4px;
+	padding-bottom:12px;
+}
+
+.frontNewsBody{
+	font: 12pt Georgia;
+	margin:auto;
+	margin-top:12px;
+	text-align: justify;
+	padding:12px;
+	line-height:1.5;
+}
+
+.frontImageBox{
+	margin:auto;
+	text-align: center;
+	margin-top:16px;
+	margin-bottom:16px;
+}
+
+.frontImageBox img{
+	margin:auto;
+	width:600px;
+}
+
+.frontImageCap{
+	font: 9pt Georgia;
+	text-align: center;
+}
+
+.metaInfo{
+	font: 8pt Arial;
+	padding:0;
+	margin:0;
+	margin-bottom: 12px;
+	color: #666666;
+}
+
+#footer{
+	background:white;
+	border-top: 1px solid #cccccc;
+	float:left;
+	margin:0;
+	width:100%;
+}
+
+.footerContent{
+	width: 640px;
+	margin:auto;
+	font: 10pt Georgia;
+	text-align: center;
+	margin-top:24px;
+	margin-bottom:24px;
+}
+
+.newsCover{
+	width:440px;
+	background:black;
+	border:#cccccc;
+	padding:0px;
+	height:316px;
+	float:left;
+	margin-right: 12px;
+	margin-bottom: 20px;
+}
+
+.newsCover img{
+	width:440px;
+}
+
+.coverHeading{
+	height:232px;
+	top: -232px;
+    position:relative;
+	font: 18pt PT Serif;
+	color: white;
+	padding:12px;
+	background: url('deneme.png');
+	line-height:1.5;
+}
+
+.coverHeading span{
+	position:absolute;
+	bottom:8px;
+}
+
+.coverImgBox{
+height:300px;
+}
