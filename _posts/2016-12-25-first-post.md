@@ -1,4 +1,4 @@
-# İlk mesajım
+# Ä°lk mesajÄ±m
 
-Böyle yazılar olacak
-Böyle yazılar olacak
+BÃ¶yle yazÄ±lar olacak
+BÃ¶yle yazÄ±lar olacak
