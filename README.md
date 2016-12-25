@@ -1,8 +1,8 @@
 # Deneme
 
 Yazı
-- liste
-- liste
+* liste
+* liste
 
 1. sdgfsgs
 2. sdgfsdgd
